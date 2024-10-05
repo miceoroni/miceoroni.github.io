@@ -1,6 +1,6 @@
 const kffcradar = document.getElementById("kffcradar")
 
-function fetchRadar(wxstation) {
+export function fetchRadar(wxstation) {
   let url = `https://radar.weather.gov/ridge/standard/{wxstation}_loop.gif`;
   fetch(url)
     .then((response) => {
@@ -15,4 +15,3 @@ function fetchRadar(wxstation) {
     });
 };
 
-fetchRadar('KFFC')
