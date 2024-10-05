@@ -1,2 +1,2 @@
-const fetchRadar = import('./radar.js');
+import('./radar.js');
 fetchRadar('KFFC')
