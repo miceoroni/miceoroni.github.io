@@ -1,5 +1,5 @@
-title: Ben Balter
-description: Attorney, open source developer, product manager
+title: miceoronis trash blog
+description: avid idiot who loves weather and coding.
 
 lang: en-US
 branch: main
@@ -22,10 +22,10 @@ ga_username: UA-xxxxxxxx-x
 # Links to include on the contact page
 contact_links:
   - name: Twitter
-    url: https://twitter.com/BenBalter
+    url: https://twitter.com/miceoroni
     icon: twitter
   - name: Facebook
-    url: https://facebook.com/BenBalter
+    url: https://i.pinimg.com/736x/8d/5f/48/8d5f48e3452a50f6b43aae49a31b6a32.jpg
     icon: facebook
 
 # Front matter defaults
